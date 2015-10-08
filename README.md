@@ -26,3 +26,5 @@ There is a buildserver located at http://palechip.com. It contains to the day bu
  7. Open the project with your IDE (for Eclipse: Point your workspace to the `eclipse` folder)
  8. Make sure you are using the Java Conventions for Formatting the code, but tell it to avoid tabs. (This is especially important for bigger pull requests. If you don't know how to do it, I'll help you once you make a pull request.)
  9. To be able to test the mod on the server, configure the IDE to pass Minecraft the following arguments on start `--username YOURUSERNAMEOREMAIL --password YOURPASSWORD` Use the data you are using to log in to the Minecraft launcher.
+
+ P0ke's fork of the awesome mod HudPixel
